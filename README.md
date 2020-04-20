@@ -1,2 +1,2 @@
 # mini-Personal-organizer
-Mini Personal organizer without GUI written in C++
+Mini Personal organizer with Dat file without GUI written in C++
